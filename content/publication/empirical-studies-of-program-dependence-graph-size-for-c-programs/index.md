@@ -17,4 +17,4 @@ image:
   preview_only: false
 date: 1998-03-01T18:27:00.000Z
 ---
-[P﻿DF](https://www.dropbox.com/scl/fo/esnmvpz0jxf6utul49pvz/h/papers?dl=0&preview=harrold98.pdf&subfolder_nav_tracking=1)
+[P﻿DF](https://drive.google.com/file/d/1mmKeuXfmwze6eSMVEkKdMTkXtSHs7Tuu/view?usp=sharing)
