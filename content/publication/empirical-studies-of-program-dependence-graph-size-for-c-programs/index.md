@@ -5,16 +5,16 @@ publication_types:
 authors:
   - Mary Jean Harrold
   - James A. Jones
-  - and Gregg Rothermel.
+  - Gregg Rothermel.
 publication: Empirical Software Engineering Journal, Volume 3, Number 2, March
   1998. pp. 203–211.
 abstract: ""
 draft: false
 featured: false
 image:
-  filename: ""
+  filename: harrold98.png
   focal_point: Smart
   preview_only: false
-date: 2023-08-15T09:14:13.700Z
+date: 2023-08-15T17:27:00.000Z
 ---
-<chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=7BF452DC57AA6F0E35B7925C334F293D?doi=10.1.1.25.6193&rep=rep1&type=pdf>
+[P﻿DF](https://www.dropbox.com/scl/fo/esnmvpz0jxf6utul49pvz/h/papers?dl=0&preview=harrold98.pdf&subfolder_nav_tracking=1)
