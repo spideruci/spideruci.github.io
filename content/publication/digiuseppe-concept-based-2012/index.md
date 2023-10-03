@@ -1,0 +1,59 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: Concept-based failure clustering
+subtitle: ''
+summary: ''
+authors:
+- Nicholas DiGiuseppe
+- James A. Jones
+tags:
+- debugging
+- fault clustering
+- testing
+categories: []
+date: '2012-11-01'
+lastmod: 2023-09-21T23:26:19-07:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-09-22T06:26:19.708263Z'
+publication_types:
+- '1'
+abstract: When attempting to determine the number and set of execution failures that
+  are caused by particular faults, developers must perform an arduous task of investigating
+  and diagnosing each individual failure. Researchers proposed failure-clustering
+  techniques to automatically categorize failures, with the intention of isolating
+  each culpable fault. The current techniques utilize dynamic control flow to characterize
+  each failure to then cluster them. These existing techniques, however, are blind
+  to the intent or purpose of each execution, other than what can be inferred by the
+  control-flow profile. We hypothesize that semantically rich execution information
+  can aid clustering effectiveness by categorizing failures according to which functionality
+  they exhibit in the software. This paper presents a novel clustering method that
+  utilizes latent-semantic-analysis techniques to categorize each failure by the semantic
+  concepts that are expressed in the executed source code. We present an experiment
+  comparing this new technique to traditional control-flow-based clustering. The results
+  of the experiment showed that the semantic-concept clustering was more precise in
+  the number of clusters produced than the traditional approach, without sacrificing
+  cluster accuracy.
+publication: '*Proceedings of the ACM SIGSOFT 20th International Symposium on the
+  Foundations of Software Engineering*'
+doi: 10.1145/2393596.2393629
+links:
+- name: URL
+  url: https://doi.org/10.1145/2393596.2393629
+---

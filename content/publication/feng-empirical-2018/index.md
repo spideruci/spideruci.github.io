@@ -23,7 +23,7 @@ tags:
 - Training data
 categories: []
 date: '2018-04-01'
-lastmod: 2023-09-05T01:57:09-07:00
+lastmod: 2023-09-21T23:26:18-07:00
 featured: false
 draft: false
 
@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-09-05T08:56:33.724536Z'
+publishDate: '2023-09-22T06:26:17.452429Z'
 publication_types:
 - '1'
 abstract: 'Classification techniques have been used in software-engineering research
