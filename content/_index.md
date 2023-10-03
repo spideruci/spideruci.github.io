@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Spider Lab 
       image:
         filename: welcome.jpg
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The Spider Lab at University of California, Irvine consists of researchers committed to enabling the automation of many software engineering tasks to reduce their costs, while improving the software''s quality.
+        Specifically, the Spider Lab is dedicated to improving the quality of software and the efficiency with which it is developed and maintained. The research areas of software analysis, testing, and visualization are utilized to enable software developers to fathom the complex interior workings of their software, specifically for finding and fixing software bugs.
   
   - block: collection
     content:
