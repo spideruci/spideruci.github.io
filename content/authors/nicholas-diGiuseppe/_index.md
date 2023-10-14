@@ -62,7 +62,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alumni
 ---
 Nicholas is a Ph.D. student studying software engineering in the Department of Informatics at the University of California, Irvine.  He currently holds a B.S. in Information and Computer Science from the same school.
 

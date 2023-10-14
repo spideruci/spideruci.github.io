@@ -60,7 +60,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Alumni
 ---
 
 Fang is currently a M.S. student in the [Donald Bren School of Information and Computer Sciences](http://www.ics.uci.edu/) at the [University of California, Irvine](http://www.uci.edu/). She work with Professor [James A. Jones](http://www.ics.uci.edu/%7Ejajones/Home.html). Our research is in the area of software testing, software analysis (run-time and compile-time), and debugging.
