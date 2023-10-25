@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "James A. Jones"
+title: "Prof. James A. Jones"
 # Full Name (for SEO)
 first_name: "James A."
 last_name: "Jones"
