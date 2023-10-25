@@ -64,6 +64,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Undergrad Students
 ---
 Jae Yun Kim is a second-year Undergraduate student at UC Irvine. He is currently pursuing a Bachelor of Science (B.S.) in Computer Science. As he endeavors to gain diverse experiences in his academic pathway, he is fortunate to have an opportunity to join the Spider Lab. He is willing to actively engage in the process of researching and explore further interests in the field of Computer Science.
