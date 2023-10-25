@@ -3,7 +3,7 @@
 title: "James A. Jones"
 # Full Name (for SEO)
 first_name: "James A."
-last_name: Jones
+last_name: "Jones"
 email: jajones@uci.edu
 # Voice: (949) 824-0942
 # Fax: (949) 824-4056
