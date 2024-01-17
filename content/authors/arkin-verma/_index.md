@@ -61,6 +61,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergrad Students
+- Undergraduate Students
 ---
 Arkin Verma is a fourth-year honors undergraduate student at UC Irvine. He is working towards a B.Sc in Computer Science with a specialization in Intelligent Systems. His research focuses on combining mutation testing with Large Language Models like ChatGPT to promote rigor in test suites.

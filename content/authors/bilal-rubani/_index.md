@@ -64,6 +64,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergrad Students
+- Undergraduate Students
 ---
 Bilal Rubani is a third-year Undergraduate student at UC Irvine. He is currently pursuing a Bachelor of Science (B.S.) in Software Engineering. He is excited to join the Spider Lab in order to make strides within the field of Computer Science. He wants his contribution to have an impact within industry, and wants his experience within the Spider Lab to further develop his skills and knowledge of the field itself.
