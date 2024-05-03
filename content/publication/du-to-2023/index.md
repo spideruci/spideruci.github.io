@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "To Kill a Mutant: An Empirical Study of Mutation Testing Kills"
+title: "(ISSTA 2023) To Kill a Mutant: An Empirical Study of Mutation Testing Kills"
 subtitle: ''
 summary: ''
 authors:

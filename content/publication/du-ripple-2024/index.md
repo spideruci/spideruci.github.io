@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Ripples of a Mutation---An Empirical Study of Propagation Effects in Mutation Testing"
+title: "(ICSE 2024) Ripples of a Mutation---An Empirical Study of Propagation Effects in Mutation Testing"
 subtitle: ''
 summary: ''
 authors:
