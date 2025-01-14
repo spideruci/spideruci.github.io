@@ -1,17 +1,17 @@
 ---
 # Display name
-title: "Hang Du"
+title: " Afrina Khatun"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "Hang-Du"
+- "afrina-khatun"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: PHD Student
-startdate: 2022
+startdate: 2024
 enddate: present
 # Organizations/Affiliations
 organizations:
@@ -42,14 +42,14 @@ education:
 social:
 - icon: Spider Link
   icon_pack: ai
-  link: http://spideruci.org/hang-du/
+  link: hhttp://spideruci.org/author/afrina-khatun/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=-tcm6-AAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=YVK8-ScAAAAJ
   display:
     header: true
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: hdu5@uci.edu
+email: akhatun@uci.edu
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -59,4 +59,3 @@ highlight_name: false
 user_groups:
 - Grad Students
 ---
-Hang Du is a second-year Ph.D. student at UC Irvine. He earned B.Sc Computer Science from Jilin University in China. He started M.S. Software Engineering program in 2021 and then continued to pursue his academic journey in the Ph.D. Software Engineering program from 2022. Hang's research interest primarily revolve around testing, specifically about mutation testing, dynamic analysis, and program comprehension. Hang's past work includes understanding how mutation testing works, and uncovering propagation effects of faults based on RIPR (Reachability, Infection, Propagation and Reveal) model. 
