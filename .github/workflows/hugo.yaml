@@ -50,6 +50,12 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - name: Confirm public folder exists
+        run: |
+          if [ ! -d "./public" ]; then
+            echo "public folder missing!"
+            exit 1
+          fi
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
