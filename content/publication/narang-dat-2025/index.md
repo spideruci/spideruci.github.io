@@ -1,18 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "(ICSE 2025) Leveraging Propagated Infection to Crossfire Mutants"
+title: "(ASE 2025) DAT Smell"
 subtitle: ''
 summary: ''
 authors:
+- Monil Narang
 - Hang Du
-- Vijay Krishna Palepu
 - James A. Jones
 tags:
-- Mutation Testing
-- Assertion Amplification
-- Crossfiring Model
-- Propagation Analysis
+- Test Smell
+- Test Code Refactoring
+- Eager Test
 categories: []
 date: '2024-11-15'
 lastmod: 2024-11-15T23:26:21-07:00
