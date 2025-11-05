@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "(ASE 2025) DAT Smell"
+title: "(ASE 2025) What's DAT Smell? Untangling and Weaving the Disjoint Assertion Tangle Test Smell"
 subtitle: ''
 summary: ''
 authors:
@@ -13,7 +13,7 @@ tags:
 - Test Code Refactoring
 - Eager Test
 categories: []
-date: '2024-11-15'
+date: '2025-10-17'
 lastmod: 2025-10-17T23:26:21-07:00
 featured: true
 draft: false
