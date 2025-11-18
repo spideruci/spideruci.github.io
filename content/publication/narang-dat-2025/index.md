@@ -46,6 +46,6 @@ publication: '*ASE 2025 (To Appear): Proceedings of the IEEE/ACM XXth Internatio
 
 doi: https://www.researchgate.net/profile/Hang-Du-13/publication/396245588_What's_DAT_Smell_Untangling_and_Weaving_the_Disjoint_Assertion_Tangle_Test_Smell/links/68e4559ed221a404b2a5cbc3/Whats-DAT-Smell-Untangling-and-Weaving-the-Disjoint-Assertion-Tangle-Test-Smell.pdf
 
-url: "https://www.researchgate.net/profile/Hang-Du-13/publication/396245588_What's_DAT_Smell_Untangling_and_Weaving_the_Disjoint_Assertion_Tangle_Test_Smell/links/68e4559ed221a404b2a5cbc3/Whats-DAT-Smell-Untangling-and-Weaving-the-Disjoint-Assertion-Tangle-Test-Smell.pdf"
+url: https://www.researchgate.net/profile/Hang-Du-13/publication/396245588_What's_DAT_Smell_Untangling_and_Weaving_the_Disjoint_Assertion_Tangle_Test_Smell/links/68e4559ed221a404b2a5cbc3/Whats-DAT-Smell-Untangling-and-Weaving-the-Disjoint-Assertion-Tangle-Test-Smell.pdf
 
 ---
