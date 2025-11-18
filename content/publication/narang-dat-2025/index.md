@@ -22,7 +22,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image: 
-caption: 'Test-level (Up) and Assertion-level (Down) Crossfiring Capabilities'
+caption: 'Real life Example from Apache Incubator'
 focal_point: 'Bottom'
 preview_only: false
 
@@ -42,7 +42,7 @@ abstract: '*In this work, we characterize a novel test-code smell—Disjoint Ass
 *Figure: Technique Overview*
 *'
 
-publication: '*ASE 2025 (To Appear): Proceedings of the IEEE/ACM XXth International Conference on Automated Software Engineering*'
+publication: '*ASE 2025: Proceedings of the IEEE/ACM 40th International Conference on Automated Software Engineering*'
 
 url_pdf: https://www.researchgate.net/profile/Hang-Du-13/publication/396245588_What's_DAT_Smell_Untangling_and_Weaving_the_Disjoint_Assertion_Tangle_Test_Smell/links/68e4559ed221a404b2a5cbc3/Whats-DAT-Smell-Untangling-and-Weaving-the-Disjoint-Assertion-Tangle-Test-Smell.pdf
 
