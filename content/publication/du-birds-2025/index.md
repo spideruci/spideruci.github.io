@@ -44,5 +44,5 @@ abstract: '*Mutation testing was proposed to identify weaknesses in test suites 
 *'
 
 publication: '*ICSE 2025 (To Appear): Proceedings of the IEEE/ACM 47th International Conference on Software Engineering*'
-doi: 10.48550/arXiv.2411.09846
+doi: https://doi.ieeecomputersociety.org/10.1109/ICSE55347.2025.00150
 ---
