@@ -27,10 +27,10 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Yi-Hung Chou, Boyuan Jiang, Yi Wen Chen, Mingyue Weng, Victoria Jackson, Thomas Zimmermann, James A. Jones, "Building Software by Rolling the Dice: A Qualitative Study of Vibe Coding"
+**Yi-Hung Chou**, Boyuan Jiang, Yi Wen Chen, Mingyue Weng, Victoria Jackson, Thomas Zimmermann, James A. Jones, **"Building Software by Rolling the Dice: A Qualitative Study of Vibe Coding"**
 
-Hang Du, Vijay Krishna Palepu, James A. Jones, "Revealing Regressions: A Comparative Study of State-Capture
-Strategies in Validating Program Behavior"
+**Hang Du**, Vijay Krishna Palepu, James A. Jones, **"Revealing Regressions: A Comparative Study of State-Capture
+Strategies in Validating Program Behavior"**
 
 
 
