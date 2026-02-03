@@ -64,6 +64,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Alumni
 ---
 Jose Juan Gonzalez Jr is a third-year transfer undergraduate student at UC Irvine, currently pursuing a Bachelor of Science (B.S.) in Software Engineering. Throughout his academic journey, he aims to learn from diverse backgrounds and is enthusiastic about the opportunity to actively engage in research and development with the Spider Lab. He is eager to learn and contribute in areas such as Human-Computer Interaction, Software Testing, and eventually explore other interests in the field of Software Engineering.

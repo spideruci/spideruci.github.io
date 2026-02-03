@@ -61,6 +61,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Alumni
 ---
 Christine Nguyen is a fourth-year Undergraduate student at UC Irvine. She is currently pursuing a Bachelor of Science (B.S.) in Biological Sciences with a minor in Informatics. She looks forward to making a meaningful contribution within the Spider Lab while also expanding her skills in UX research and design.
