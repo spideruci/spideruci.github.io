@@ -13,8 +13,8 @@ tags:
 - Mutation Testing
 - Propagation Analysis
 categories: []
-date: '2026-6-30'
-lastmod: 2026-6-30T23:26:21-07:00
+date: '2026-06-30'
+lastmod: 2026-06-30T23:26:21-07:00
 featured: true
 draft: false
 
