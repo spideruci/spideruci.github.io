@@ -43,6 +43,6 @@ abstract: '*Mutation testing was proposed to identify weaknesses in test suites 
 *Figure: Test-level (Up) and Assertion-level (Down) Crossfiring Capabilities*
 *'
 
-publication: '*ICSE 2025 (To Appear): Proceedings of the IEEE/ACM 47th International Conference on Software Engineering*'
+publication: '*ICSE 2025: Proceedings of the IEEE/ACM 47th International Conference on Software Engineering*'
 doi: https://doi.ieeecomputersociety.org/10.1109/ICSE55347.2025.00150
 ---
