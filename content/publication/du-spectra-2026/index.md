@@ -13,7 +13,7 @@ tags:
 - Mutation Testing
 - Propagation Analysis
 categories: []
-date: '2026-7-1'
+date: '2026-6-30'
 lastmod: 2026-6-30T23:26:21-07:00
 featured: true
 draft: false
@@ -32,7 +32,7 @@ preview_only: false
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-07-1T06:26:21.730139Z'
+publishDate: '2026-06-30T06:26:21.730139Z'
 publication_types:
 - '1'
 
