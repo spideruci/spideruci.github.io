@@ -48,6 +48,9 @@ social:
   link: https://scholar.google.com/citations?hl=en&user=-tcm6-AAAAAJ
   display:
     header: true
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Hang-Du-13
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: hdu5@uci.edu
 
