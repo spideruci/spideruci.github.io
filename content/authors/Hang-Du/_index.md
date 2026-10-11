@@ -40,9 +40,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: Spider Link
-  icon_pack: ai
-  link: http://spideruci.org/hang-du/
+- icon: globe
+  icon_pack: fas
+  link: https://superhangdu.com
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=-tcm6-AAAAAJ
