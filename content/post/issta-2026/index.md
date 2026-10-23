@@ -27,4 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-**Hang Du**, Vijay Krishna Palepu, James A. Jones, **"How Does Killing Surviving Mutants Help Detect Real Bugs with Assertion Generation? A Controlled Experiment"**
+**Hang Du**, Vijay Krishna Palepu, James A. Jones, [**"How Does Killing Surviving Mutants Help Detect Real Bugs with Assertion Generation? A Controlled Experiment"**](/publication/du-killing-2026/)
