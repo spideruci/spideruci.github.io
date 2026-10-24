@@ -7,3 +7,18 @@
 .cta-group {
   justify-content: center;
 }
+
+// Contact page photos: on phones and tablets, size each section to its photo's shape
+// instead of the full screen height, so the whole group stays in frame.
+@media (max-width: 991.98px) {
+  .home-section.fullscreen.photo-3x2,
+  .home-section.fullscreen.photo-4x3 {
+    min-height: 0;
+  }
+  .home-section.photo-3x2 {
+    aspect-ratio: 3 / 2;
+  }
+  .home-section.photo-4x3 {
+    aspect-ratio: 4 / 3;
+  }
+}
