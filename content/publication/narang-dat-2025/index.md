@@ -43,6 +43,7 @@ abstract: '*In this work, we characterize a novel test-code smell—Disjoint Ass
 *'
 
 publication: '*ASE 2025: Proceedings of the IEEE/ACM 40th International Conference on Automated Software Engineering*'
+doi: 10.1109/ASE63991.2025.00108
 
 url_pdf: https://www.researchgate.net/profile/Hang-Du-13/publication/396245588_What's_DAT_Smell_Untangling_and_Weaving_the_Disjoint_Assertion_Tangle_Test_Smell/links/68e4559ed221a404b2a5cbc3/Whats-DAT-Smell-Untangling-and-Weaving-the-Disjoint-Assertion-Tangle-Test-Smell.pdf
 
