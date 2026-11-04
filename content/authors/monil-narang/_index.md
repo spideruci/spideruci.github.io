@@ -1,6 +1,7 @@
 ---
 # Display name
 title: "Monil Narang"
+weight: 2
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -59,6 +60,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alumni
 ---
 Monil is an MS in Software Engineering student at UC Irvine. He completed his bachelor's degree in Computer Science at LNM IIT in India. He worked as a backend developer in the industry for more than 3 years and is now pursuing his academic and research journey to contribute towards reducing development efforts in software testing. His previous research revolves around optimizing the conversion of conventional unit tests to parameterized unit tests.
